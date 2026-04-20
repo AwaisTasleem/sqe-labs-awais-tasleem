@@ -1,8 +1,8 @@
 # 🚀 SQE Lab 1: String Utilities Module (Graded Task)
 
 ## 👤 Student Information
-**Name:** Muhammad Suliman
-**Registration ID:** FA23-BSE-047
+**Name:** Awais bin tasleem
+**Registration ID:** FA23-BSE-017
 **Course:** Software Quality Engineering (SQE)  
 **University:** Mirpur University of Science and Technology (MUST)
 
